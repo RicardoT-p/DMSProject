@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jstl">
+    <CLASSES>
+      <root url="jar://D:/jar/jstl.jar!/" />
+      <root url="jar://D:/jar/SmartUpload.jar!/" />
+      <root url="jar://D:/jar/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
